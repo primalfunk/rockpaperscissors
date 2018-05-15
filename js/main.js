@@ -2,7 +2,6 @@ c_wins = 0
 p_wins = 0
 ties = 0
 
-
 function StartGame(rps) {
   //remove the photos + win message
   var mNum
